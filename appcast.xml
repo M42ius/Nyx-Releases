@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--
+  Die Liste der veröffentlichten Fassungen. Erzeugt und ergänzt wird sie mit
+  `make appcast RELEASES=<pfad>` aus dem Hauptprojekt; jeder Eintrag trägt die
+  Signatur seines Archivs. Von Hand wird hier nichts geändert.
+
+  Derzeit leer: Die Fassung 0.2.0 wurde zurückgezogen. Ihr Binary trug die
+  Baupfade des Entwicklungsrechners in den Debug-Symbolen. Der Bau ist
+  inzwischen gehärtet und prüft das selbst; die nächste Fassung kommt sauber.
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Nyx</title>
+        <link>https://raw.githubusercontent.com/M42ius/nyx-releases/main/appcast.xml</link>
+        <description>Veröffentlichte Fassungen von Nyx</description>
+        <language>de</language>
+    </channel>
+</rss>
