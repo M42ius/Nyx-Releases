@@ -11,7 +11,7 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Nyx</title>
-        <link>https://raw.githubusercontent.com/M42ius/nyx-releases/main/appcast.xml</link>
+        <link>https://raw.githubusercontent.com/M42ius/Nyx-Releases/main/appcast.xml</link>
         <description>Veröffentlichte Fassungen von Nyx</description>
         <language>de</language>
     </channel>
